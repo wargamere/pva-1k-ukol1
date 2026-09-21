@@ -12,3 +12,4 @@ while True:
     else:
         print("Správně!")
         break
+print(pokusy)
